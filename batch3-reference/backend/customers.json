@@ -1,0 +1,62 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Shivan LP",
+      "acctNo": "DBS111",
+      "email": "lp.shivan@gmail.com",
+      "phone": "9967392822"
+    },
+    {
+      "id": 2,
+      "name": "Shivan LP 222",
+      "acctNo": "DBS1020",
+      "email": "lp.shivan222@gmail.com",
+      "phone": "9967392822"
+    },
+    {
+      "name": "test",
+      "acctNo": "",
+      "email": "test@gmail.com",
+      "phone": "",
+      "id": 3
+    },
+    {
+      "name": "another test",
+      "acctNo": "",
+      "email": "anothertest@gmail.com",
+      "phone": "",
+      "id": 4
+    },
+    {
+      "name": "Johnson",
+      "acctNo": "DBS999",
+      "email": "john@gmail.com",
+      "phone": "9862346234",
+      "id": 5
+    },
+    {
+      "name": "",
+      "acctNo": "",
+      "email": "",
+      "phone": "",
+      "id": 6
+    },
+    {
+      "name": "tyduihg",
+      "acctNo": "DBS1123",
+      "email": "tyd@gmail.com",
+      "phone": "2734324234",
+      "id": 7
+    },
+    {
+      "name": "dsfasdfasdf",
+      "acctNo": "adsfasf",
+      "email": "asdfasdf@gmail.com",
+      "phone": "9866234234",
+      "id": 8
+    }
+  ],
+  "banks": [],
+  "transactions": []
+}

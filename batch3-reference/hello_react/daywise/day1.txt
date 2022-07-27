@@ -1,0 +1,13 @@
+Day 1 Coverage
+-----------------
+1) Full stack intro
+2) Frontend/Backend knowledge
+3) History of web development (Javascript to JQuery to React)
+4) Browser model (document, window)
+5) Browser console and debugging
+6) Node, npm concepts
+7) Javascript intro and basics
+8) Creating a new react app
+9) Demo of a react hook app (Counter example)
+10) VSCode usage and tips
+11) Overview of the react app folder

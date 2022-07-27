@@ -1,0 +1,25 @@
+Day 2 Coverage
+------------------
+1) Javascript basics, es6 features
+2) Data types (Numbers, String, Arrays)
+3) Counter Hook implementation
+4) Class based Counter implementation
+5) Stateful(Class Based) vs Stateless Components(Function Components)
+6) components folder structure
+7) Arrays, Array length, Browser console
+8) Constructor Functions, Objects
+9) Array of Objects
+10) Customers List Component
+11) CSS Libraries
+12) Adding Bootstrap
+13) Bootstrap classes
+14) React className variable
+15) Using json data or js data (importing)
+16) Default export vs normal export
+17) Primereact installation and usage
+18) Explore material ui vs Primereact
+19) Intro to primereact data table
+20) Using primeflex for alignments
+21) Responsive design (xs, sm, md, lg)
+22) Html table (customers table)
+23) Adding styles to the table
